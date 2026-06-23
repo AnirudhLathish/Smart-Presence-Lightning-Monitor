@@ -95,7 +95,7 @@ Images
 
 Hardware Setup
 
-(Add hardware_setup.jpg)
+(Add hardware_setup.jpeg)
 
 STM32 Configuration
 
