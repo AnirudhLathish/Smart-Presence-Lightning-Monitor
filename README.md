@@ -95,14 +95,10 @@ Images
 
 Hardware Setup
 
-(Add hardware_setup.jpeg)
+![Hardware Setup](hardware_setup.jpeg)
 
 STM32 Configuration
 
-(cubemx_config.png)
+![STM32 Configuration](cubemx_config.png)
 
-(finaloutput.jpg)
-
-Output
-
-(Add output.jpg)
+![Finaloutput](finaloutput.jpg)
